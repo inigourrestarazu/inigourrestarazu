@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there
+
+I'm a PhD student in Linguistics from the CNRS - IKER UMR5478, University of the Basque Country, and the University of Pau and the Countries of Adour.
+
+My area of research is something between:
+
+- Basque historical linguistics / dialectology
+- Phonetics (nasality / sibilants)
+- Methods
+
+Visit [my website](https://urrestarazu.gitlab.io/) (it's in the other place)
 
 <!--
 **inigourrestarazu/inigourrestarazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
